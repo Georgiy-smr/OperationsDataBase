@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DataBaseOperationHelper</id>
+    <version>1.0.0</version>
+    <title>OperationsDataBase</title>
+    <authors>DataBaseOperationHelper</authors>
+    <description>Package Description</description>
+    <repository type="git" url="https://github.com/Georgiy-smr/OperationsDataBase" commit="3d4cda053a1aec1e1a86d79483e168828a2b1d13" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="GenericServices.StatusGeneric" version="1.2.0" exclude="Build,Analyzers" />
+        <dependency id="MediatR" version="13.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="9.0.6" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\mrsmi\OperationsDataBase\bin\Release\net8.0\DataBaseOperationHelper.dll" target="lib\net8.0\DataBaseOperationHelper.dll" />
+  </files>
+</package>

@@ -13,11 +13,12 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataBaseOperationHelper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69dc5497731da05f1f0dd00c87c0e83d48a045bc")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d4cda053a1aec1e1a86d79483e168828a2b1d13")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataBaseOperationHelper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataBaseOperationHelper")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.1")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/Georgiy-smr/OperationsDataBase")]
 
 // Создано классом WriteCodeFragment MSBuild.
 
